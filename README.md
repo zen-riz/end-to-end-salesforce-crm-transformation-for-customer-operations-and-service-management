@@ -1,0 +1,2 @@
+# end-to-end-salesforce-crm-transformation-for-customer-operations-and-service-management
+This capstone project simulates a real-world Salesforce CRM implementation for GreenGrid Utilities, a mid-sized energy and utility services company. The project focuses on transforming the company's customer operations and service management processes by leveraging the Salesforce platform. Students, acting as Salesforce Business Analysts, will anal
